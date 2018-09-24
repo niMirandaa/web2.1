@@ -1,0 +1,25 @@
+/*Codigo color naranjo : #FF380F*/
+
+
+/*Estilo del footer*/
+
+.footer{
+	background-color:#000000 /*Fondo negro*/;
+	width:100%;
+	height:40px;
+	bottom:0;
+	position:fixed;
+	text-align:center;
+	color:#FF4B25;
+	text-decoration:none;
+}
+
+.opacity{
+   background-color:#FF380F;
+   opacity:0.15;
+   filter:alpha(opacity=60); /* IE < 9.0 */
+   width:500px;
+   height:500px;
+   justify-content:center
+}
+
