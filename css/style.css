@@ -16,10 +16,10 @@
 
 .opacity{
    background-color:#8D8D8D;
-   opacity:0.15;
+   opacity:0.10;
    filter:alpha(opacity=60); /* IE < 9.0 */
    width:1200px;
    height:600px;
    justify-content:center
-	 
+
 }
