@@ -62,7 +62,7 @@ body {
   background:url(../images/background.jpg) no-repeat fixed center;
   background-size: cover;
   margin: 500;
-  
+
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -3877,6 +3877,7 @@ input[type="button"].btn-block {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
+
 }
 
 .nav-link {
@@ -3962,6 +3963,7 @@ input[type="button"].btn-block {
 }
 
 .navbar {
+  
   position: relative;
   display: -ms-flexbox;
   display: flex;
